@@ -14,6 +14,9 @@ Exemplarisch ist im Folgenden das JSON-Format für die Metadaten dargestellt.
     "PlanLOS!": {
         "title": "Metadata",
 		"Metadata": {
+			"Timestamp": {
+				"timestamp": "08:57:37"
+			}
             		"School": {
 				"vacation": "1"
 			}
@@ -31,3 +34,6 @@ Exemplarisch ist im Folgenden das JSON-Format für die Metadaten dargestellt.
 		}
 	}
 }
+
+
+Die internen Datensätze der Verkehrsbetreiber so wie des Verkehrsaufkommen befinden sich in einem ähnlichen JSON-Format. Nur die entsprechende Keys und Werte variieren.
