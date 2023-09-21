@@ -31,4 +31,4 @@ Exemplarisch ist im Folgenden das JSON-Format für die Metadaten dargestellt.
             }
         }
     }
-}```
+}
