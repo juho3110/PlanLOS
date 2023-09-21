@@ -13,7 +13,7 @@ Exemplarisch ist im Folgenden das JSON-Format für die Metadaten dargestellt.
 ```json {
     "PlanLOS!": {
         "title": "Metadata",
-		"GlossDiv": {
+		"Metadata": {
             "title": "S",
 			"GlossList": {
                 "GlossEntry": {
