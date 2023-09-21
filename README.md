@@ -14,21 +14,18 @@ Exemplarisch ist im Folgenden das JSON-Format für die Metadaten dargestellt.
     "PlanLOS!": {
         "title": "Metadata",
 		"Metadata": {
-            "title": "S",
-			"GlossList": {
-                "GlossEntry": {
-                    "ID": "SGML",
-					"SortAs": "SGML",
-					"GlossTerm": "Standard Generalized Markup Language",
-					"Acronym": "SGML",
-					"Abbrev": "ISO 8879:1986",
-					"GlossDef": {
-                        "para": "A meta-markup language, used to create markup languages such as DocBook.",
-						"GlossSeeAlso": ["GML", "XML"]
-                    },
-					"GlossSee": "markup"
-                }
-            }
-        }
-    }
+            		"School": {
+				"vacation": "1"
+			}
+			"Weather": {
+				"propability_of_rain": "40",
+				"temperature": "14",
+				"extreme_weather_forecast": "0"
+			}
+			"Event": {
+				"Long": "8.031088829040527",
+				"Lat": "52.28971862792969"
+			}
+		}
+	}
 }
