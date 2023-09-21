@@ -6,4 +6,4 @@ Im Folgenden Abbild 1 ist das Sequenzdiagram für die Infrastruktur des LSTM-Net
 
 ![Sequencediagram](finished_activity_diagram.drawio.png "Sequence diagram")
 
-Diese besteht aus drei unterschiedlichen Pipelines zum Data-Handling. 
+Diese besteht aus drei unterschiedlichen Pipelines zum Data-Handling.
