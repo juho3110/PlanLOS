@@ -37,4 +37,6 @@ Exemplarisch ist im Folgenden das JSON-Format für die Metadaten dargestellt.
 ```
 
 
-Die internen Datensätze der Verkehrsbetreiber so wie des Verkehrsaufkommen befinden sich in einem ähnlichen JSON-Format. Nur die entsprechende Keys und Werte variieren
+Die internen Datensätze der Verkehrsbetreiber so wie des Verkehrsaufkommen befinden sich in einem ähnlichen JSON-Format. Nur die entsprechende Keys und Werte variieren.
+
+Innerhalb der Pipeline für den Data-Handler wird, neben dem Preprocessing der Datensätze für die Vorhersage, auch eine Analyse der internen und traffic Daten durchgeführt. Diese soll an den Visualisierungsstate übergeben werden und so eine detaillierte Auswertung des bestehenden Verkehrsplan und des geplanten Verkehrsplan dem Unternehmen ermöglichen. 
