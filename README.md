@@ -24,7 +24,9 @@ Exemplarisch ist im Folgenden das JSON-Format für die Metadaten dargestellt.
 			}
 			"Event": {
 				"Long": "8.031088829040527",
-				"Lat": "52.28971862792969"
+				"Lat": "52.28971862792969",
+				"timestamp_0": "09:00",
+				"timestamp_1": "21:00"
 			}
 		}
 	}
