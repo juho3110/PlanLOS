@@ -11,8 +11,8 @@ Diese besteht aus drei unterschiedlichen Pipelines zum Data-Handling. Die erfass
 Exemplarisch ist im Folgenden das JSON-Format für die Metadaten dargestellt.
 
 ```json {
-    "glossary": {
-        "title": "example glossary",
+    "PlanLOS!": {
+        "title": "Metadata",
 		"GlossDiv": {
             "title": "S",
 			"GlossList": {
