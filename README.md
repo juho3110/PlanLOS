@@ -1,6 +1,6 @@
 # PlanLOS! Machbarkeitsstudie
 
-## Architektur 
+## Architektur
 
 Im Folgenden Abbild 1 ist das Sequenzdiagram für die Architektur des LSTM-Netzwerk zu sehen.
 
