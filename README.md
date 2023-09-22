@@ -1,5 +1,5 @@
 # PlanLOS! Machbarkeitsstudie
-Diese ReadME beinhaltet weiterführende Informationen und technische Details zu der Realisierung der KI-gestützten automatisierten und dynamischen Nahverkehrsplanung von PlanLOS!. 
+Diese ReadME beinhaltet weiterführende Informationen und technische Details zu der Realisierung der KI-gestützten automatisierten und dynamischen Nahverkehrsplanung von PlanLOS!.  
 
 ## Architektur
 
