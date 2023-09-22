@@ -1,8 +1,9 @@
 # PlanLOS! Machbarkeitsstudie
+Diese ReadME beinhaltet weiterführende Informationen und technische Details zu der Realisierung der KI-gestützten automatisierten und dynamischen Nahverkehrsplanung von PlanLOS!.
 
 ## Architektur
 
-Im Folgenden Abbild 1 ist das Sequenzdiagram für die Architektur des LSTM-Netzwerk zu sehen.
+Im Folgenden Abbild 1 ist das Sequenzdiagram für die Architektur des Recurrent Neural Networks zu sehen.
 
 ![Sequencediagram](finished_activity_diagram.drawio.png "Sequence diagram")
 
@@ -32,8 +33,8 @@ Die Oberfläche für das Unternehmen bietet eine detaillierte Einsicht in die ak
 
 Die Ansicht für den Endkunden bietet nicht so viele Details, wie die des Unternehmen. Hier beschränkt sich PlanLOS! auf die relevanten Daten für den Endkunden. Der aktuelle Routenplan mit integrierten Ankunfts- und Abfahrtszeiten, der zukünftige Routenplan mit den entsprechenden Zeiten und eine detaillierte aktuelle Ansicht der zu erwartenden Wahrscheinlichkeiten mit der sich der Bus verspätet. 
 
-# PlanLOS! bietet Ihnen eine dynamische, KI-gestütze Komplettlösung für die Öffentlichen Nahverkehrsunternehmen und Ihre Endverbraucher! 
+## PlanLOS! bietet Ihnen eine dynamische, KI-gestütze Komplettlösung für die Öffentlichen Nahverkehrsunternehmen und Ihre Endverbraucher! 
 
-# Bei Interesse melden Sie sich gerne unter planlosunternehmen@gmail.com.
+## Bei Interesse melden Sie sich gerne unter planlosunternehmen@gmail.com.
 
-# Wir freuen uns auf Ihre Anfrage!
+## Wir freuen uns auf Ihre Anfrage!
