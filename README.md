@@ -12,7 +12,7 @@ Ebenfalls werden die Meta- und Trafficdaten in der entsprechenden Pipeline in da
 
 Innerhalb der Pipeline für den Data-Handler wird, neben dem Preprocessing der Datensätze für die Vorhersage, auch eine Analyse der internen und traffic Daten durchgeführt. Diese werden an den Visualisierungsstate übergeben und eine detaillierte Auswertung des bestehenden und des geplanten Verkehrsplan dem Unternehmen zu ermöglichen. 
 
-Exemplarisch ist im Folgenden das JSON-Format für die Metadaten dargestellt.
+Exemplarisch ist im Folgenden das JSON-Format für die Metadaten dargestellt. 
 
 ![Metadata im JSON-Format](JSON_metadata.png "Metadata im JSON-Format")
 
