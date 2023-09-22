@@ -22,4 +22,11 @@ Zur Modellierung eines optimierten Routenplans beschränken wir uns auf eine KI-
 
 ## Output
 
+PlanLOS! bietet seinen Kunden zwei unterschiedliche Oberflächen. Eine Oberfläche für Unternehmen und eine Oberfläche für die Endkunden.
+
+### Unternehmen
+
+
+
+### Endverbraucher
 
