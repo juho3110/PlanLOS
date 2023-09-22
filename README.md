@@ -10,7 +10,7 @@ Diese besteht aus drei unterschiedlichen Pipelines zum Data-Handling. Die erfass
 
 Exemplarisch ist im Folgenden das JSON-Format für die Metadaten dargestellt.
 
-![Metadata im JSON-Format](finished_activity_diagram.drawio.png "Metadata im JSON-Format")
+![Metadata im JSON-Format](JSON_metadata.png "Metadata im JSON-Format")
 
 Die internen Datensätze der Verkehrsbetreiber so wie des Verkehrsaufkommen befinden sich in einem ähnlichen JSON-Format. Nur die entsprechende Keys und Werte variieren.
 
