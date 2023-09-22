@@ -16,6 +16,10 @@ Exemplarisch ist im Folgenden das JSON-Format für die Metadaten dargestellt.
 
 ![Metadata im JSON-Format](JSON_metadata.png "Metadata im JSON-Format")
 
+## Das neuronale Netz
+
+Zur Modellierung eines optimierten Routenplans beschränken wir uns auf eine KI-gestützte Analyse. Dabei wird das Netz mit den Daten aus den entsprechenden Pipelines trainiert. Um dem dynamischen Verhalten des Straßenverkehrs zu entsprechen, beschränken wir uns auf RNN's (Recurrent Neural Networks). Diese ermöglichen uns ein continous-learning. Das bedeutet, dass nach dem einmaligen Durchlaufen der Pipelines und Generierung eines entsprechenden Models ein erneuter Loop mit den neuen Datensätzen gestartet wird. Nach der erneuten KI-gestützen Modellierung wird überprüft, ob das alte Modell noch aktuell für den jeweiligen Verkehr ist. Sollte dies nicht der Fall sein, wird dieses Modell von dem neuen ersetzt. Ansonsten bleibt das alte Modell bestehen. Dies wird in einem Eternal-Loop durchgeführt. So ermöglichen wir dem öffentlichen Nahverkehr dynamisch, auf Grund der aktuelle Datenlage, die Routenplanung auf externe Gegebenheiten anzupassen.  
+
 ## Output
 
 
