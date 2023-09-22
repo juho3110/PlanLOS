@@ -22,11 +22,18 @@ Zur Modellierung eines optimierten Routenplans beschränken wir uns auf eine KI-
 
 ## Output
 
-PlanLOS! bietet seinen Kunden zwei unterschiedliche Oberflächen. Eine Oberfläche für Unternehmen und eine Oberfläche für die Endkunden. 
+PlanLOS! bietet seinen Kunden zwei unterschiedliche Oberflächen. Eine graphische Oberfläche für Unternehmen und eine für die Endkunden. 
 
 ### Unternehmen
 
-
+Die Oberfläche für das Unternehmen bietet eine detaillierte Einsicht in die aktuelle Datenlage und Routenpläne. Dazu gehören die im Routenplan berücksichtigten Daten, der aktuelle Routenplan, die aktuellen Abfahrts- und Ankunftszeiten, so wie die zeitliche Abweichungen des realisierten Plans von dem Erwarteten. Zusätzlich wird der neu generierte Routenplan, die erwarteten Ankunfts und Abfahrtszeiten und ein Indikator für die Verbesserung des Routenplans angezeigt. Auf diese Weise garantiert PlanLOS! Transparenz gegenüber seinen Kunden immer den bestmöglichen Routenplan zur Verfügung zu stellen. 
 
 ### Endverbraucher
 
+Die Ansicht für den Endkunden bietet nicht so viele Details, wie die des Unternehmen. Hier beschränkt sich PlanLOS! auf die relevanten Daten für den Endkunden. Der aktuelle Routenplan mit integrierten Ankunfts- und Abfahrtszeiten, der zukünftige Routenplan mit den entsprechenden Zeiten und eine detaillierte aktuelle Ansicht der zu erwartenden Wahrscheinlichkeiten mit der sich der Bus verspätet. 
+
+# PlanLOS! bietet Ihnen eine dynamische, KI-gestütze Komplettlösung für die Öffentlichen Nahverkehrsunternehmen und Ihre Endverbraucher! 
+
+# Bei Interesse melden Sie sich gerne unter planlosunternehmen@gmail.com.
+
+# Wir freuen uns auf Ihre Anfrage!
